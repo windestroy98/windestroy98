@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Windestroy
 - 👀 I’m interested in Geography, history, and technology
  - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on making applications
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Did you know that the first computer ever was made on 1946
 
